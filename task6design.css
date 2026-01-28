@@ -10,6 +10,7 @@ body {
 }
 
 
+
 .navbar .nav-link {
     color: white;
 }
@@ -17,6 +18,11 @@ body {
 .project-img {
     height: 200px;
     object-fit: cover;
+}
+
+#skills,
+#contact {
+    background-color: white;
 }
 
 #skills,
