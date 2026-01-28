@@ -1,7 +1,7 @@
-body{
+body {
     margin: 0;
     padding-top: 80px;
-    background-image: url(the\ bg.jpg);
+    background-color: black;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -11,22 +11,22 @@ body{
 
 
 .navbar .nav-link {
-  color: white;
+    color: white;
 }
 
-.project-img{
+.project-img {
     height: 200px;
     object-fit: cover;
 }
 
-#skills, #projects, #contact, #home {
+#skills,
+#projects,
+#contact,
+#home {
     scroll-margin-top: 90px;
 }
-#projects a{
-    text-decoration:none;
+
+#projects a {
+    text-decoration: none;
     color: inherit;
 }
-
-
-
-
